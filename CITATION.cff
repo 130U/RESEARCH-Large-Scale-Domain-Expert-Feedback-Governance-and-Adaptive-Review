@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "Large-Scale Domain Expert Feedback Governance and Adaptive Review"
+version: "V_202611"
+date-released: 2026-11-19
+abstract: "How should a post-training program spend a limited pool of expert reviewers when every review does two jobs at once? The article, its PDF, full derivations and code that recomputes every figure."
+authors:
+  - family-names: Ouyang
+    given-names: "Letao (Theodore)"
+repository-code: "https://github.com/130U/RESEARCH-Large-Scale-Domain-Expert-Feedback-Governance-and-Adaptive-Review"
+url: "https://www.theodoreoy.com/experience/large-scale-domain-expert-feedback-governance-and-adaptive-review/"
+keywords:
+  - "human feedback"
+  - "RLHF"
+  - "data quality"
+  - "statistical inference"
+  - "survey sampling"
+  - "inverse probability weighting"
+preferred-citation:
+  type: article
+  title: "Large-Scale Domain Expert Feedback Governance and Adaptive Review"
+  authors:
+    - family-names: Ouyang
+      given-names: "Letao (Theodore)"
+  year: 2026
+  url: "https://www.theodoreoy.com/experience/large-scale-domain-expert-feedback-governance-and-adaptive-review/"
+  institution:
+    name: "Duke University"
